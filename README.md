@@ -42,8 +42,9 @@ Una aplicación simple que permite a los usuarios iniciar sesión ingresando su 
 </a>
 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 </a>
+
 
 ## Créditos
 
