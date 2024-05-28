@@ -9,13 +9,20 @@ Una aplicación simple que permite a los usuarios iniciar sesión ingresando su 
 3. [Créditos](#créditos)
 
 ## Capturas de pantalla
+![pagina-home](https://github.com/CristinaFdezFdez/control-usuarios-php/assets/155740893/f356f64b-b370-4a70-8783-274999033ea4)
+
+![iniciar-sesión](https://github.com/CristinaFdezFdez/control-usuarios-php/assets/155740893/d40b01e8-1f0f-43fb-85d3-2483856ef874)
 
 ![pagina-dentro](https://github.com/CristinaFdezFdez/control-usuarios-php/assets/155740893/4783e3a4-9c61-4b0b-8cc0-951541f6c97e)
-![info-usuario](https://github.com/CristinaFdezFdez/control-usuarios-php/assets/155740893/582dd9d7-6331-480b-99db-8596985ac6b6)
-![info-cambiada](https://github.com/CristinaFdezFdez/control-usuarios-php/assets/155740893/511a8e8e-17b9-43aa-b775-85b87e5e3237)
+
 ![editar-perfil](https://github.com/CristinaFdezFdez/control-usuarios-php/assets/155740893/75be461d-bf08-4bea-92cf-79794168987e)
-![iniciar-sesión](https://github.com/CristinaFdezFdez/control-usuarios-php/assets/155740893/d40b01e8-1f0f-43fb-85d3-2483856ef874)
-![pagina-home](https://github.com/CristinaFdezFdez/control-usuarios-php/assets/155740893/f356f64b-b370-4a70-8783-274999033ea4)
+
+![info-usuario](https://github.com/CristinaFdezFdez/control-usuarios-php/assets/155740893/582dd9d7-6331-480b-99db-8596985ac6b6)
+
+![info-cambiada](https://github.com/CristinaFdezFdez/control-usuarios-php/assets/155740893/511a8e8e-17b9-43aa-b775-85b87e5e3237)
+
+
+
 
 ## Tecnologías utilizadas
 
